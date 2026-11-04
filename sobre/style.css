@@ -156,7 +156,8 @@ figcaption {
   color: #777777;
 }
 
-a {
+nav a {
+  margin-right: 20px;
   color: #1f4e79;
   text-decoration: none;
 }
